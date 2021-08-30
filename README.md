@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @Mol3kule
-- 👀 I’m interested in cool and future having programs / apps.
+- 👀 I’m interested in cool and the future having programs / apps.
 - 🌱 I’m currently learning C#, ReactJS/Native.
 - 💞️ I’m looking to collaborate on mobile apps and PC games.
 - ⚡ I'm working on my own game project.
