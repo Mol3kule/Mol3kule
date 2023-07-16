@@ -1,5 +1,14 @@
 ### 👋 Hi, I’m @Mol3kule
-- 🌱 I’m currently learning C#, ReactJS/Native, VueJS.
+- 🌱 I’m a Front-End Developer.
+  * Skilled at:
+    - JS/TS
+    - HTML&CSS
+    - ReactJS/Native
+    - PHP
+    - MYSQL
+    - C#
+    - Lua
+
 - 📫 You can reach me in discord **Molekulė#6683**.
 
 
